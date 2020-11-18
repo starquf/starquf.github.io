@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Tower Defense
 
-You can use the [editor on GitHub](https://github.com/starquf/starquf.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a tower defense game written in C# using Unity. [Play](http://andrew-boutin.github.io/tower-defense) on GitHub Pages!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In Crazy Canal Tower Defense, your objective is to strategically place defense towers to prevent enemy water craft from reaching the end of the canal!
 
-### Markdown
+![Crazy Canal Tower Defense Gif](docs/tower.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
-
-# 안녕하세요
-## 저의 사이트에 오신것을 환영합니다
-### ㅎㅇㅎㅇ
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/starquf/starquf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out my [personal website](https://andrewboutin.com)!
